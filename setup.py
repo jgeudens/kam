@@ -78,7 +78,7 @@ def main():
 	install = UpdateInit
 
 	setup(name="kam",
-	      version="1.0.0",
+	      version="1.1.1",
 	      description="Keep the machine alive on activity",
 	      url="http://github.com/pluyckx/kam",
 	      author="Philip Luyckx",
